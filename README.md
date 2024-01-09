@@ -1,7 +1,9 @@
 ## Hi there! 👋
 
 ### Welcome to my GitHub account!
-My name is Ignat Ignatov and I have been programming since 2021 having expirience with Java, MySql, HTML and CSS, JavaScript, React and Git;
+I'm Ignat Ignatov and I have been programming since 2021 having expirience with Java, MySql, HTML and CSS, JavaScript, React and Git;
+
+<hr>
 
 🌱 ->  At the end of my Java web training I developed several small projects with Spring Boot backend and React frontend. Also, in a two-day workshop, we successfully developed a small application with Node.js backend, React frontend and MongoDB databases, where I consolidated knowledge and skills. All of this can be seen on my GitHub profile;
 
@@ -11,7 +13,9 @@ My name is Ignat Ignatov and I have been programming since 2021 having expirienc
 
 ⚡  ->  In 2024 I continue to deepen and expand my knowledge and skills;
 
-### My skills
+<hr>
+
+### My skills:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker)](https://skillicons.dev)
 
@@ -19,20 +23,20 @@ My name is Ignat Ignatov and I have been programming since 2021 having expirienc
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-Connect with me: ***ignatov1423@gmail.com***
+<hr>
 
+#### Connect with me:
+  </hr>
+  <a href="https://www.linkedin.com/in/ignat-ignatov-309478244/">
+   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:ignatov1423@gmail.com">
+    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+   <a href="https://github.com/ignatIgnatov">
+    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
+  <hr>
+  
 Thank You for visiting my Github account!
-<!--
-**ignatIgnatov/ignatIgnatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
