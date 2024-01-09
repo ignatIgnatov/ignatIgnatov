@@ -19,6 +19,8 @@ My name is Ignat Ignatov and I have been programming since 2021 having expirienc
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
+Connect with me: ***ignatov1423@gmail.com***
+
 Thank You for visiting my Github account!
 <!--
 **ignatIgnatov/ignatIgnatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
