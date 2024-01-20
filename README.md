@@ -17,11 +17,11 @@ I'm Ignat Ignatov and I have been programming since 2021 having expirience with 
 
 ### My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
 
 <hr>
 
