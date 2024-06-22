@@ -7,11 +7,15 @@ I'm Ignat Ignatov and I have been programming since 2021 having expirience with 
 
 🌱 ->  At the end of my Java web training I developed several small projects with Spring Boot backend and React frontend. Also, in a two-day workshop, we successfully developed a small application with Node.js backend, React frontend and MongoDB databases, where I consolidated knowledge and skills. All of this can be seen on my GitHub profile;
 
-🔭 ->  I am currently working on an internship project where I gained new skills in Rest Api developing -> Docker, PostgreSql, Flyway and more;
-
 👯 ->  I am actively seeking my first job opportunity and eager to contribute my skills and knowledge to a dynamic and collaborative team;
 
-⚡  ->  In 2024 I continue to deepen and expand my knowledge and skills;
+⚡   -> In September 2023, I started an internship project at Ludogorie Soft. With this project I consolidated knowledge and skills in Spring Boot, PostgreSql, Docker, Git and Scrum
+
+⚡  ->  In 2024 I continue to deepen and expand my knowledge and skills:
+
+   I am expanding my skills as a full stack developer by learning Next.js, TailwindCSS and MongoDB databases.
+   
+   I already have several Next.js demo projects from my training on GitHub
 
 <hr>
 
@@ -19,7 +23,7 @@ I'm Ignat Ignatov and I have been programming since 2021 having expirience with 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,tailwindcss,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nextjs,react,tailwindcss,html,css)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel)](https://skillicons.dev)
 
