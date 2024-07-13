@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 ### Welcome to my GitHub account!
-I'm Ignat and I have been programming since 2021 having expirience with Java, MySql, HTML and CSS, JavaScript, React and Git;
+I'm Ignat and I have been programming since 2021 having expirience with Java, JavaScript, MySql, PostgreSQL, MongoDB, Next.js, TailwindCSS, Git etc.
 
 <hr>
 
