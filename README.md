@@ -7,9 +7,9 @@ I'm Ignat and I have been programming since 2021 having expirience with Java, My
 
 🌱 ->  At the end of my Java web training I developed several small projects with Spring Boot backend and React frontend. Also, in a two-day workshop, we successfully developed a small application with Node.js backend, React frontend and MongoDB databases, where I consolidated knowledge and skills. All of this can be seen on my GitHub profile;
 
-👯 ->  I am actively seeking my first job opportunity and eager to contribute my skills and knowledge to a dynamic and collaborative team;
-
 ⚡   -> In September 2023, I started an internship project at Ludogorie Soft. With this project I consolidated knowledge and skills in Spring Boot, PostgreSql, Docker, Git and Scrum
+
+👯 ->  I am actively seeking my first job opportunity and eager to contribute my skills and knowledge to a dynamic and collaborative team;
 
 ⚡  ->  In 2024 I continue to deepen and expand my knowledge and skills:
 
