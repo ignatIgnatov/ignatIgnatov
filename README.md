@@ -17,6 +17,8 @@ I'm Ignat and I have been programming since 2021 having expirience with Java, Ja
    
    I already have several Next.js demo projects from my training on GitHub
 
+⚡  ->  In 2025 I have some real projects yet. I am creating my first real React Native app with Spring Boot BE. It already exists in App Store and Google Play Store. I am expanding my skills as a full stack by AWS deployment and Spring Boot integrations with many other apis like booking.com, airbnb.com, Emag, skroutz.gr, bol.com, Microinvest api, RevenueCat, Stripe etc.
+
 <hr>
 
 ### My skills:
