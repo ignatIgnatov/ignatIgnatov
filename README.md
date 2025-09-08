@@ -9,25 +9,23 @@ I'm Ignat and I have been programming since 2021 having expirience with Java, Ja
 
 ⚡   -> In September 2023, I started an internship project at Ludogorie Soft. With this project I consolidated knowledge and skills in Spring Boot, PostgreSql, Docker, Git and Scrum
 
-👯 ->  I am actively seeking my first job opportunity and eager to contribute my skills and knowledge to a dynamic and collaborative team;
-
 ⚡  ->  In 2024 I continue to deepen and expand my knowledge and skills:
 
    I am expanding my skills as a full stack developer by learning Next.js, TailwindCSS and MongoDB databases.
    
    I already have several Next.js demo projects from my training on GitHub
 
-⚡  ->  In 2025 I have some real projects yet. I am creating my first real React Native app with Spring Boot BE. It already exists in App Store and Google Play Store. I am expanding my skills as a full stack by AWS deployment and Spring Boot integrations with many other apis like booking.com, airbnb.com, Emag, skroutz.gr, bol.com, Microinvest api, RevenueCat, Stripe etc.
+⚡  ->  In 2025 I have some real projects yet. I am creating my first real React Native Expo app with Spring Boot BE. It already exists in App Store and Google Play Store. I am expanding my skills as a full stack by AWS deployment and Spring Boot integrations with many other apis like booking.com, airbnb.com, Emag, skroutz.gr, bol.com, Microinvest api, RevenueCat, Stripe etc.
 
 <hr>
 
 ### My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,mysql,postgresql,mongodb)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,nextjs,react,tailwindcss,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,vercel)](https://skillicons.dev)
 
 <hr>
 
