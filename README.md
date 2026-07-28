@@ -1,26 +1,28 @@
 ## Hi there! 👋
 
-### Welcome to my GitHub account!
-I'm Ignat and I have been programming since 2021 having expirience with Java, JavaScript, MySql, PostgreSQL, Next.js, TailwindCSS, Git etc.
+### Welcome to my GitHub profile!
+I'm Ignat, a passionate Full-Stack Software Developer dedicated to building clean, scalable, and efficient web and mobile applications.
 
 <hr>
 
-🌱 ->  At the end of my Java web training I developed several small projects with Spring Boot backend and React frontend. Also, in a two-day workshop, we successfully developed a small application with Node.js backend, React frontend and MongoDB databases, where I consolidated knowledge and skills. All of this can be seen on my GitHub profile;
+🌱 **The Journey (2021 - 2023):**
+* Started my programming journey, mastering core technologies like **Java, JavaScript, MySQL, and PostgreSQL**.
+* Built several web projects using **Spring Boot** for the backend and **React** for the frontend.
+* Consolidated my skills during a software engineering internship at **Ludogorie Soft**, working with **Spring Boot, PostgreSQL, Docker, Git, and Scrum** methodologies.
 
-⚡   -> In September 2023, I started an internship project at Ludogorie Soft. With this project I consolidated knowledge and skills in Spring Boot, PostgreSql, Docker, Git and Scrum
+⚡ **Growth & Modern Stack (2024):**
+* Expanded into the modern frontend ecosystem, mastering **Next.js, TailwindCSS, and MongoDB**.
+* Developed and deployed several full-stack web platforms and marketplace solutions, focusing on performance and user experience.
 
-⚡  ->  In 2024 I continue to deepen and expand my knowledge and skills:
-
-   I am expanding my skills as a full stack developer by learning Next.js, TailwindCSS and MongoDB databases.
-   
-   I already have several Next.js demo projects from my training on GitHub
-
-⚡  ->  In 2025 I have some real projects yet. I am creating my first real React Native Expo app with Spring Boot BE. It already exists in App Store and Google Play Store. I am expanding my skills as a full stack by AWS deployment and Spring Boot integrations with many other apis like booking.com, airbnb.com, Emag, skroutz.gr, bol.com, Microinvest api, RevenueCat, Stripe etc.
-   I continue to deepen my knowledge of Spring Security, Spring Microservices Architecture and Spring Reactive Programming...
+🚀 **Production & Scale (2025 - Present):**
+* Successfully built and launched a standalone mobile application developed with **React Native (Expo)** and a **Spring Boot** backend, currently live on both the **App Store** and **Google Play Store**.
+* Advanced my DevOps and cloud infrastructure skills with **AWS deployment** and **Nginx** configuration.
+* Integrated complex third-party APIs into production systems, including **Stripe, RevenueCat, Booking.com, Airbnb, eMAG, Skroutz, Bol.com**, and **Microinvest API**.
+* Continuously deepening my expertise in **Spring Security, Microservices Architecture, and Spring Reactive Programming**.
 
 <hr>
 
-### My skills:
+### My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,mysql,postgresql,mongodb)](https://skillicons.dev)
 
@@ -31,17 +33,18 @@ I'm Ignat and I have been programming since 2021 having expirience with Java, Ja
 <hr>
 
 #### Connect with me:
-  </hr>
-  <a href="https://www.linkedin.com/in/ignat-ignatov-309478244/">
-   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:ignatov1423@gmail.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-   <a href="https://github.com/ignatIgnatov">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
-  <hr>
-  
-Thank You for visiting my Github account!
+
+<a href="https://www.linkedin.com/in/ignat-ignatov-309478244/">
+  <img align="left" alt="Ignat Ignatov | LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+<a href="mailto:ignatov1423@gmail.com">
+  <img align="left" alt="Ignat Ignatov | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+<a href="https://github.com/ignatIgnatov">
+  <img align="left" alt="Ignat Ignatov | GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+</a>
+
+<br>
+<hr>
+
+Thank you for visiting my GitHub profile!
